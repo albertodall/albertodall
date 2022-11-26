@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: alberto.dallagiacoma@live.it # optional, but default will use the same from github
