@@ -18,3 +18,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertodall)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertodall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 My badges :
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
