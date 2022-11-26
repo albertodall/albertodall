@@ -12,4 +12,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_README_BADGES_TOKEN }}
-          CREDLY_USER: alberto.dallagiacoma@live.it # optional, but default will use the same from github
+          CREDLY_USER: alberto-dallagiacoma
